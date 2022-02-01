@@ -1,0 +1,16 @@
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\bin\Debug\net5.0\consoleapplicationdemo.exe
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\bin\Debug\net5.0\consoleapplicationdemo.deps.json
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\bin\Debug\net5.0\consoleapplicationdemo.runtimeconfig.json
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\bin\Debug\net5.0\consoleapplicationdemo.runtimeconfig.dev.json
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\bin\Debug\net5.0\consoleapplicationdemo.dll
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\bin\Debug\net5.0\ref\consoleapplicationdemo.dll
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\bin\Debug\net5.0\consoleapplicationdemo.pdb
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\obj\Debug\net5.0\consoleapplicationdemo.csproj.AssemblyReference.cache
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\obj\Debug\net5.0\consoleapplicationdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\obj\Debug\net5.0\consoleapplicationdemo.AssemblyInfoInputs.cache
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\obj\Debug\net5.0\consoleapplicationdemo.AssemblyInfo.cs
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\obj\Debug\net5.0\consoleapplicationdemo.csproj.CoreCompileInputs.cache
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\obj\Debug\net5.0\consoleapplicationdemo.dll
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\obj\Debug\net5.0\ref\consoleapplicationdemo.dll
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\obj\Debug\net5.0\consoleapplicationdemo.pdb
+C:\Users\guarn\Documents\ProgettiCorsoProgrammatori\consoleapplicationdemo\obj\Debug\net5.0\consoleapplicationdemo.genruntimeconfig.cache
