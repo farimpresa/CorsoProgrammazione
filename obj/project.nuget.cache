@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TGhLLCmPXrwoO+1sYjdx61V0nOimkqq8e286T9qAtqmAg+1l9GBnX/ge1hJ4Anj0L2iDYNQUm8Y3n2KFv7su7A==",
+  "dgSpecHash": "6jjjHv0BIqnKHoDEuC7Igu9l+ZAjpVVTP/vf+ODzG2oUeAvzCojip4XXYDftd5QlFjQNK+jWyQN92vBjSsiAmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guarn\\Documents\\ProgettiCorsoProgrammatori\\consoleapplicationdemo\\consoleapplicationdemo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\antonio\\source\\repos\\CorsoProgrammazione\\consoleapplicationdemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antonio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
